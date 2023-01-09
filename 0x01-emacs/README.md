@@ -1,0 +1,1 @@
+This project is about learning a familiarizing oneself with emacs
