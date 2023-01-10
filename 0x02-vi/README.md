@@ -1,0 +1,1 @@
+This project is about learning how to navigate vi and use it's basic functions in order to build a foundation of understanding.
